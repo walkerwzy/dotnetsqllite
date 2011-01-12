@@ -1,0 +1,10 @@
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\obj\Debug\sqliteDemo.Form1.resources
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\obj\Debug\sqliteDemo.Properties.Resources.resources
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\obj\Debug\sqliteDemo.csproj.GenerateResource.Cache
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\bin\Debug\sqliteDemo.exe
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\bin\Debug\sqliteDemo.pdb
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\bin\Debug\System.Data.SQLite.dll
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\bin\Debug\System.Data.SQLite.xml
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\obj\Debug\sqliteDemo.exe
+F:\DeskTop\yuanqi\new\sqliteDemo\sqliteDemo\obj\Debug\sqliteDemo.pdb
